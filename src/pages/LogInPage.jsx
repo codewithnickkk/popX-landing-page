@@ -41,7 +41,7 @@ function LogInPage() {
       </button>
     </div>
 
-    <div className="mt-87 left-0 w-full flex justify-center gap-6">
+    <div className="absolute top-[93vh] left-0 w-full flex justify-center gap-6">
         <button onClick={() => navigate("/")} className="text-gray-600">
           <svg
             xmlns="http://www.w3.org/2000/svg"
